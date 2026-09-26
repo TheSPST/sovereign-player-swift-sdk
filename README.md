@@ -180,12 +180,11 @@ Check out our [Contributing Guide](CONTRIBUTING.md) to get started!
 
 ---
 
-## 💖 Support & Donate
+## 💖 Support & Community
 
 If **Sovereign Player SDK** powers your apps, saves you bandwidth, or supercharges your video playback performance, please consider supporting the project:
 
 - ⭐ **Star this repository** to help other Apple developers discover it.
-- ☕ **Sponsor & Donate:** Support full-time maintenance, Metal compute kernel development, and community support via [GitHub Sponsors](https://github.com/sponsors/TheSPST) or PayPal: `shubhamtomar.spst@gmail.com`.
 - 📢 **Spread the Word:** Share your projects built with Sovereign Player on Twitter/X, LinkedIn, and iOS developer forums!
 
 ---

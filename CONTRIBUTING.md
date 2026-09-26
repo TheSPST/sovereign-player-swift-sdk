@@ -73,7 +73,6 @@ We are actively seeking contributions in the following areas:
 
 If you or your company build great apps using Sovereign Player SDK, consider supporting our ongoing development:
 - **Star this repository** on GitHub.
-- **Sponsor / Donate** via [GitHub Sponsors](https://github.com/sponsors/TheSPST) or PayPal.
 - **Share** your implementations with the community!
 
 *(C) 2026 Sovereign Byte Technology. All Rights Reserved.*
