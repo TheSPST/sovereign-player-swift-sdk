@@ -18,11 +18,11 @@ let package = Package(
     ],
     targets: [
         // 🔒 Pre-compiled closed-source binary target containing proprietary Metal & NEON engines
-        // For local development and repo bundling, this uses the embedded XCFramework path.
-        // For production GitHub release tags, this can be swapped to remote URL + SHA256 checksum.
         .binaryTarget(
             name: "SovereignPlayerCore",
-            path: "Frameworks/SovereignPlayerCore.xcframework"
+            url: "https://github.com/TheSPST/sovereign-player-swift-sdk/releases/download/v1.0.0/SovereignPlayerCore.xcframework.zip",
+            checksum: "6205e0deb311a7ba80ffa4094d6ebee591a4bff762a8e4f23487751f40574fd5"
+            // For local development without downloading, use: path: "Frameworks/SovereignPlayerCore.xcframework"
         ),
         
         // 🌐 Public Swift wrapper exposing SwiftUI and AppKit/UIKit APIs
