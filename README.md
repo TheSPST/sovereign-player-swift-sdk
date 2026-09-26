@@ -165,9 +165,34 @@ Developers get full, free access to sovereign performance while core algorithms 
 
 ---
 
+## 🤝 Community & Contributing
+
+We warmly invite Apple, Swift, and Metal developers to contribute to the open-source Swift SDK layer!
+
+Whether you want to build:
+- 🎨 **Glassmorphic & Custom UI Theme Overlays**
+- 💬 **Subtitle Renderers (SRT / WebVTT / ASS)**
+- 🎵 **Metal Audio Visualizers & Equalizer Filters**
+- 📱 **visionOS & tvOS Native Player Interfaces**
+- 🌍 **Internationalization & Localization**
+
+Check out our [Contributing Guide](CONTRIBUTING.md) to get started!
+
+---
+
+## 💖 Support & Donate
+
+If **Sovereign Player SDK** powers your apps, saves you bandwidth, or supercharges your video playback performance, please consider supporting the project:
+
+- ⭐ **Star this repository** to help other Apple developers discover it.
+- ☕ **Sponsor & Donate:** Support full-time maintenance, Metal compute kernel development, and community support via [GitHub Sponsors](https://github.com/sponsors/TheSPST) or PayPal: `shubhamtomar.spst@gmail.com`.
+- 📢 **Spread the Word:** Share your projects built with Sovereign Player on Twitter/X, LinkedIn, and iOS developer forums!
+
+---
+
 ## 📄 License
 
-- **Swift Wrapper (`Sources/SovereignPlayerSDK`):** MIT License.
+- **Swift Wrapper (`Sources/SovereignPlayerSDK`):** [MIT License](https://opensource.org/licenses/MIT).
 - **Binary Core Engine (`SovereignPlayerCore.xcframework`):** Sovereign Byte Freeware License — Free for commercial and non-commercial use on Apple platforms.
 
 *(C) 2026 Sovereign Byte Technology. All Rights Reserved.*
