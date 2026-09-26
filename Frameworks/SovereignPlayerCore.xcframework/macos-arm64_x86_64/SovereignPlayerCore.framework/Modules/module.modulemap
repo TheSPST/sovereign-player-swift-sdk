@@ -1,0 +1,5 @@
+framework module SovereignPlayerCore {
+    umbrella header "SovereignPlayerCore.h"
+    export *
+    module * { export * }
+}
